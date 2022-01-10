@@ -8,7 +8,8 @@ Minimum Viable Product (MVP):
 
 2) Another business application of this project: targeted advertising for rain apparel such as rainboots, umbrellas, ponchos, etc. 
 
+3) Top 10 Busiest NYC Subway Stations During July
 
-Next Steps: 
-4) Top 10 Busiest NYC Subway Stations During July
+![alt text](https://user-images.githubusercontent.com/67651332/148848863-44c64600-4da3-4552-b741-817b26a35a43.png)
+
 5) Geo-mapping with 311 Street Flood Data (if there is time)
