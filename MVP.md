@@ -12,4 +12,6 @@ Minimum Viable Product (MVP):
 
 ![alt text](https://user-images.githubusercontent.com/67651332/148848863-44c64600-4da3-4552-b741-817b26a35a43.png)
 
+Analysis: The numbers are in billions so the data were not cleaned well, so the data need to be cleaned again. 
+
 5) Geo-mapping with 311 Street Flood Data (if there is time)
