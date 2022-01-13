@@ -1,3 +1,4 @@
+![top_10_busiest_stations](https://user-images.githubusercontent.com/67651332/149417845-55fe7f08-b34c-4c98-a305-c6c724cf4fed.png)
 # METIS_EDA_Project_Proposal
 This is an Explanatory Data Analysis (EDA) project proposal using New York City (NYC) Metropolitan Transportation Authority (MTA) turnstile data. 
 
