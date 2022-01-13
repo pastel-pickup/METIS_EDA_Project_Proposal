@@ -19,6 +19,9 @@ The design of the project essentially merges the top results of three data sets:
 
 
 # Tools
-
+DB Browser, SQLite, and SQLAlchemy for extraction, transformation, and loading (ETL) data
+Pandas for data manipulation
+Matplotlib and Seaborn for plotting
+Tableau for interactive visualizations
 
 # Communication
