@@ -11,9 +11,9 @@ The design of the project essentially merges the top results of three data sets:
   3) Find the top 10 busiest NYC subway stations with the most flood incidents during the rainiest season
 
 # Data
-1) Rain data: 
-2) Subway traffic data: 
-3) Flood data: 
+1) Rain data: 165 data points of precipitation in the last 3 years (2019-2021) across all 5 NYC boroughs. Data from National Oceanic and Atmospheric Administration (NOAA). 
+2) Subway traffic data: 2,504,395 data points of Metropolitan Transportation Authority (MTA) turnstile data.
+3) Flood data: 31,185 data points of 311 NYC Street Flooding data from 2010 to 2021. 
 
 # Algorithms
 
