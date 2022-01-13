@@ -11,3 +11,5 @@ This is an Explanatory Data Analysis (EDA) project proposal using New York City 
  
 
 ![MTA](https://user-images.githubusercontent.com/67651332/148848863-44c64600-4da3-4552-b741-817b26a35a43.png)
+
+[FloodTop10Stations.csv](https://github.com/pastel-pickup/METIS_EDA_by_Mai_Tran/files/7866382/FloodTop10Stations.csv)
