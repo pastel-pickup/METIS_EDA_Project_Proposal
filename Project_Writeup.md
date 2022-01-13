@@ -12,8 +12,8 @@ The design of the project essentially merges the top results of three data sets:
 
 # Data
 1) Rain data: 165 data points of precipitation in the last 3 years (2019-2021) across all 5 NYC boroughs. Data from National Oceanic and Atmospheric Administration (NOAA). 
-2) Subway traffic data: 2,504,395 data points of Metropolitan Transportation Authority (MTA) turnstile data.
-3) Flood data: 31,185 data points of 311 NYC Street Flooding data from 2010 to 2021. 
+2) Subway traffic data: 2,504,395 data points of subway station turnstile data in most recent rainiest months: 7/2020, 7/2021, 9/2021. Data from Metropolitan Transportation Authority (MTA). 
+3) Flood data: 31,185 data points of reported street flooding incidents from 2010 to 2021. Data from 311 NYC Street Flooding. 
 
 # Algorithms
 
