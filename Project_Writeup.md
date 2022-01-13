@@ -14,3 +14,8 @@ The design of the project essentially merges the top results of three data sets:
 1) Rain data: 
 2) Subway traffic data: 
 3) Flood data: 
+
+# Algorithms
+
+
+# Communication
