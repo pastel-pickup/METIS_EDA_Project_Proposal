@@ -14,3 +14,6 @@ This is an Explanatory Data Analysis (EDA) project proposal using New York City 
 
 
 ![top_10_busiest_stations](https://user-images.githubusercontent.com/67651332/149432906-478b4b42-9ff7-4540-a23d-b2a83c9521a0.png)
+
+![top_10_busiest_stations_highest_risk](https://user-images.githubusercontent.com/67651332/149434621-8dd1bd0e-e58a-4043-8e10-473ec856d3be.png)
+
