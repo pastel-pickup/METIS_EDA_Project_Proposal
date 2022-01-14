@@ -31,7 +31,7 @@ The design of the project essentially merges the top results of three data sets:
 
 2) Top 10 busiest NYC subway stations in July:
 
-![top_10_busiest_stations](https://user-images.githubusercontent.com/67651332/149417845-55fe7f08-b34c-4c98-a305-c6c724cf4fed.png)
+![top_10_busiest_stations](https://user-images.githubusercontent.com/67651332/149431332-e04eb12b-d248-42cb-ab55-3d2c6571669c.png)
 
 3) Top 10 Busiest Stations with Highest Flood Risk
 
