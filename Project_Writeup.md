@@ -25,7 +25,7 @@ The design of the project essentially merges the top results of three data sets:
 4) Geopandas for geo-mapping
 
 # Communication
-1) Rainiest season determined was July:
+1) Rainiest month determined was July:
 
 ![rainfall](https://user-images.githubusercontent.com/67651332/149432879-511882c4-1c4d-472c-9603-13adf3a7fa3a.png)
 
