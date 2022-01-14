@@ -29,7 +29,7 @@ The design of the project essentially merges the top results of three data sets:
 
   ![alt text](https://user-images.githubusercontent.com/67651332/148838596-c9b91659-6e6a-40d9-81c6-a3caf5b6aef3.png)
 
-2) These are the top 10 busiest NYC subway stations during rainy July:
+2) Top 10 busiest NYC subway stations in July:
 
 ![top_10_busiest_stations](https://user-images.githubusercontent.com/67651332/149417845-55fe7f08-b34c-4c98-a305-c6c724cf4fed.png)
 
