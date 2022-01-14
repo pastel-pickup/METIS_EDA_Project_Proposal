@@ -7,10 +7,10 @@ This is an Explanatory Data Analysis (EDA) project proposal using New York City 
    </p>
 
 
-![July](https://user-images.githubusercontent.com/67651332/148838596-c9b91659-6e6a-40d9-81c6-a3caf5b6aef3.png)
+![rainfall](https://user-images.githubusercontent.com/67651332/149432879-511882c4-1c4d-472c-9603-13adf3a7fa3a.png)
  
 
 ![MTA](https://user-images.githubusercontent.com/67651332/148848863-44c64600-4da3-4552-b741-817b26a35a43.png)
 
 
-![top_10_busiest_stations](https://user-images.githubusercontent.com/67651332/149431332-e04eb12b-d248-42cb-ab55-3d2c6571669c.png)
+![top_10_busiest_stations](https://user-images.githubusercontent.com/67651332/149432906-478b4b42-9ff7-4540-a23d-b2a83c9521a0.png)
