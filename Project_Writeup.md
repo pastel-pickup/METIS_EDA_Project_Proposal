@@ -21,7 +21,7 @@ The design of the project essentially merges the top results of three data sets:
 # Tools
 1) DB Browser, SQLite, and SQLAlchemy for extraction, transformation, and loading (ETL) of data into Python
 2) Pandas for data manipulation
-3) Matplotlib and Seaborn for plotting
+3) Matplotlib and Seaborn for data visualization
 4) Geopandas for geo-mapping
 
 # Communication
