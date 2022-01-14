@@ -27,12 +27,11 @@ The design of the project essentially merges the top results of three data sets:
 # Communication
 1) Rainiest season determined was July:
 
-  ![alt text](https://user-images.githubusercontent.com/67651332/148838596-c9b91659-6e6a-40d9-81c6-a3caf5b6aef3.png)
+![rainfall](https://user-images.githubusercontent.com/67651332/149432879-511882c4-1c4d-472c-9603-13adf3a7fa3a.png)
 
 2) Top 10 busiest NYC subway stations around July:
 
-![top_10_busiest_stations](https://user-images.githubusercontent.com/67651332/149431332-e04eb12b-d248-42cb-ab55-3d2c6571669c.png)
+![top_10_busiest_stations](https://user-images.githubusercontent.com/67651332/149432906-478b4b42-9ff7-4540-a23d-b2a83c9521a0.png)
 
 3) Top 10 Busiest Stations with Highest Flood Risk
 
-[FloodTop10Stations.csv](https://github.com/pastel-pickup/METIS_EDA_by_Mai_Tran/files/7866382/FloodTop10Stations.csv)
